@@ -1,5 +1,5 @@
  const socket = io('http://localhost:3000');
-
+//js
 const form = document.getElementById('send-container');
 const messageInput = document.getElementById('messageInp');
 const messageContainer = document.querySelector('.container');
